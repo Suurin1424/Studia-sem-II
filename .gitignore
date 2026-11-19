@@ -1,0 +1,9 @@
+# Whitelist: do repo trafiają tylko PDF-y z folderów "Wykłady"
+/*
+!/.gitignore
+!/README.md
+!/*/
+/*/*
+!/*/Wykłady/
+/*/Wykłady/*
+!/*/Wykłady/*.pdf
